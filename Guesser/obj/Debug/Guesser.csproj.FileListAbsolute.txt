@@ -1,0 +1,7 @@
+C:\Users\ibhan\Desktop\Stuff\Guess\Guess\Guesser\bin\Debug\Guesser.exe.config
+C:\Users\ibhan\Desktop\Stuff\Guess\Guess\Guesser\bin\Debug\Guesser.exe
+C:\Users\ibhan\Desktop\Stuff\Guess\Guess\Guesser\bin\Debug\Guesser.pdb
+C:\Users\ibhan\Desktop\Stuff\Guess\Guess\Guesser\obj\Debug\Guesser.csprojAssemblyReference.cache
+C:\Users\ibhan\Desktop\Stuff\Guess\Guess\Guesser\obj\Debug\Guesser.csproj.CoreCompileInputs.cache
+C:\Users\ibhan\Desktop\Stuff\Guess\Guess\Guesser\obj\Debug\Guesser.exe
+C:\Users\ibhan\Desktop\Stuff\Guess\Guess\Guesser\obj\Debug\Guesser.pdb
